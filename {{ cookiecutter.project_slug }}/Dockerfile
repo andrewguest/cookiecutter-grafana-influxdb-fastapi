@@ -1,6 +1,6 @@
 # Dockerfile for the FastAPI container
 
-FROM python:3.9.0-alpine
+FROM python:3.9.1-alpine
 
 # set work directory
 WORKDIR /usr/src/app
