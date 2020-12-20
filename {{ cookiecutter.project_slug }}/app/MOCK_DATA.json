@@ -1,0 +1,702 @@
+[
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-06 16:57:53",
+      "fields":{
+         "randomNumber":1
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-24 17:14:30",
+      "fields":{
+         "randomNumber":89
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-20 11:56:50",
+      "fields":{
+         "randomNumber":39
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-11-18 13:41:16",
+      "fields":{
+         "randomNumber":15
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-19 17:18:52",
+      "fields":{
+         "randomNumber":80
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-10 13:44:26",
+      "fields":{
+         "randomNumber":33
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-15 03:13:13",
+      "fields":{
+         "randomNumber":57
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-08 04:17:35",
+      "fields":{
+         "randomNumber":7
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-20 10:22:20",
+      "fields":{
+         "randomNumber":94
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-08 21:10:01",
+      "fields":{
+         "randomNumber":83
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-08 20:13:43",
+      "fields":{
+         "randomNumber":59
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-26 20:24:30",
+      "fields":{
+         "randomNumber":58
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-16 04:58:54",
+      "fields":{
+         "randomNumber":92
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-02 11:38:03",
+      "fields":{
+         "randomNumber":49
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-06 08:46:06",
+      "fields":{
+         "randomNumber":21
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-16 17:53:56",
+      "fields":{
+         "randomNumber":4
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-22 18:30:11",
+      "fields":{
+         "randomNumber":80
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-22 00:54:10",
+      "fields":{
+         "randomNumber":65
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-19 06:16:41",
+      "fields":{
+         "randomNumber":8
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-12 10:19:34",
+      "fields":{
+         "randomNumber":25
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-30 01:10:42",
+      "fields":{
+         "randomNumber":20
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-21 03:41:01",
+      "fields":{
+         "randomNumber":40
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-22 13:24:09",
+      "fields":{
+         "randomNumber":9
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-05 23:50:18",
+      "fields":{
+         "randomNumber":46
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-24 02:30:12",
+      "fields":{
+         "randomNumber":64
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-24 07:50:13",
+      "fields":{
+         "randomNumber":82
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-22 11:53:03",
+      "fields":{
+         "randomNumber":91
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-21 08:34:48",
+      "fields":{
+         "randomNumber":3
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-19 19:36:41",
+      "fields":{
+         "randomNumber":34
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-15 12:41:58",
+      "fields":{
+         "randomNumber":45
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-09-09 08:26:56",
+      "fields":{
+         "randomNumber":58
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-28 09:51:05",
+      "fields":{
+         "randomNumber":59
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-03 11:26:48",
+      "fields":{
+         "randomNumber":5
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-18 12:46:43",
+      "fields":{
+         "randomNumber":35
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-27 17:27:52",
+      "fields":{
+         "randomNumber":12
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-24 13:09:41",
+      "fields":{
+         "randomNumber":54
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-07 10:34:48",
+      "fields":{
+         "randomNumber":45
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-16 00:55:27",
+      "fields":{
+         "randomNumber":34
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-07 06:14:35",
+      "fields":{
+         "randomNumber":88
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-11 00:17:48",
+      "fields":{
+         "randomNumber":49
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-21 03:40:57",
+      "fields":{
+         "randomNumber":64
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-27 01:46:32",
+      "fields":{
+         "randomNumber":49
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-17 18:15:04",
+      "fields":{
+         "randomNumber":58
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-10-15 19:03:40",
+      "fields":{
+         "randomNumber":25
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-09-21 14:38:21",
+      "fields":{
+         "randomNumber":23
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-01 03:24:20",
+      "fields":{
+         "randomNumber":24
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-23 09:59:42",
+      "fields":{
+         "randomNumber":67
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-24 17:17:27",
+      "fields":{
+         "randomNumber":56
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-28 10:38:34",
+      "fields":{
+         "randomNumber":63
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-11-26 08:13:28",
+      "fields":{
+         "randomNumber":42
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-01 02:05:54",
+      "fields":{
+         "randomNumber":40
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-04 04:11:47",
+      "fields":{
+         "randomNumber":78
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-23 18:37:29",
+      "fields":{
+         "randomNumber":40
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-13 01:48:41",
+      "fields":{
+         "randomNumber":91
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-09 11:44:07",
+      "fields":{
+         "randomNumber":86
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-14 15:13:09",
+      "fields":{
+         "randomNumber":75
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-29 09:06:27",
+      "fields":{
+         "randomNumber":86
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-27 04:36:20",
+      "fields":{
+         "randomNumber":78
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-13 01:57:54",
+      "fields":{
+         "randomNumber":77
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-07 15:31:09",
+      "fields":{
+         "randomNumber":18
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-18 06:40:53",
+      "fields":{
+         "randomNumber":52
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-11-02 02:00:10",
+      "fields":{
+         "randomNumber":90
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-06 06:25:40",
+      "fields":{
+         "randomNumber":51
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-16 23:29:49",
+      "fields":{
+         "randomNumber":36
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-29 09:42:55",
+      "fields":{
+         "randomNumber":34
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-16 22:44:27",
+      "fields":{
+         "randomNumber":16
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-29 07:29:23",
+      "fields":{
+         "randomNumber":85
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-02 18:00:58",
+      "fields":{
+         "randomNumber":58
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-06 17:59:34",
+      "fields":{
+         "randomNumber":81
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-29 00:46:16",
+      "fields":{
+         "randomNumber":86
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-05 14:57:16",
+      "fields":{
+         "randomNumber":87
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-30 18:56:50",
+      "fields":{
+         "randomNumber":34
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-06 10:51:11",
+      "fields":{
+         "randomNumber":24
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-09 07:53:41",
+      "fields":{
+         "randomNumber":19
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-30 21:28:40",
+      "fields":{
+         "randomNumber":43
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-17 18:52:55",
+      "fields":{
+         "randomNumber":26
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-30 05:01:14",
+      "fields":{
+         "randomNumber":82
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-21 23:48:52",
+      "fields":{
+         "randomNumber":85
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-14 10:13:17",
+      "fields":{
+         "randomNumber":41
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-07 01:25:15",
+      "fields":{
+         "randomNumber":22
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-11-18 17:01:45",
+      "fields":{
+         "randomNumber":22
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-20 09:25:10",
+      "fields":{
+         "randomNumber":67
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-04-05 01:04:11",
+      "fields":{
+         "randomNumber":42
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-01 11:18:07",
+      "fields":{
+         "randomNumber":78
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-09 16:55:09",
+      "fields":{
+         "randomNumber":49
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-11 05:41:54",
+      "fields":{
+         "randomNumber":99
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-09-16 15:35:00",
+      "fields":{
+         "randomNumber":39
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-07-24 14:38:57",
+      "fields":{
+         "randomNumber":1
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-06-19 01:10:18",
+      "fields":{
+         "randomNumber":77
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-04 11:56:12",
+      "fields":{
+         "randomNumber":58
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-09-14 16:19:04",
+      "fields":{
+         "randomNumber":10
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-20 03:28:45",
+      "fields":{
+         "randomNumber":42
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2019-12-07 04:10:53",
+      "fields":{
+         "randomNumber":65
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-01-09 18:16:32",
+      "fields":{
+         "randomNumber":77
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-09 10:14:25",
+      "fields":{
+         "randomNumber":49
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-08-10 20:53:19",
+      "fields":{
+         "randomNumber":85
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-03-17 15:19:29",
+      "fields":{
+         "randomNumber":11
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-05-30 09:43:20",
+      "fields":{
+         "randomNumber":79
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-02-13 10:45:23",
+      "fields":{
+         "randomNumber":27
+      }
+   },
+   {
+      "measurement":"randomNumberEvents",
+      "datetime":"2020-09-12 02:58:04",
+      "fields":{
+         "randomNumber":56
+      }
+   }
+]

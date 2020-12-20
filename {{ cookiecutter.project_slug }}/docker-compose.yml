@@ -1,0 +1,38 @@
+version: '3'
+services:
+  influxdb:
+    image: influxdb:latest
+    ports:
+      - '8086:8086'
+    volumes:
+      - $PWD/influxdb_data:/var/lib/influxdb
+    environment:
+      - INFLUXDB_DB={{ cookiecutter.influxdb_db }}
+      - INFLUXDB_ADMIN_USER={{ cookiecutter.influxdb_user }}
+      - INFLUXDB_ADMIN_PASSWORD={{ cookiecutter.influxdb_password }}
+
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - '3000:3000'
+    volumes:
+      - grafana-storage:/var/lib/grafana
+      - ./grafana-provisioning/:/etc/grafana/provisioning
+    depends_on:
+      - influxdb
+    environment:
+      - GF_SECURITY_ADMIN_USER={{ cookiecutter.grafana_admin_user }}
+      - GF_SECURITY_ADMIN_PASSWORD={{ cookiecutter.grafana_admin_password }}
+
+  fastapi:
+    build:
+      context: '.'
+    image: 'fastapi-grafana'
+    command: gunicorn app.main:app --bind 0.0.0.0:7000 -w 1 -k uvicorn.workers.UvicornWorker
+    ports:
+      - "7000:7000"
+    restart: always
+    container_name: 'fastapi-grafana'
+
+volumes:
+  grafana-storage:

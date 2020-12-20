@@ -1,0 +1,11 @@
+{
+  "project_name": "",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+
+  "influxdb_db": "firstdb",
+  "influxdb_user": "admin",
+  "influxdb_password": "admin",
+
+  "grafana_admin_user": "admin",
+  "grafana_admin_password": "admin"
+}
