@@ -24,6 +24,8 @@
 | 7000      | FastAPI  |
 | 8086      | InfluxDB |
 
+5. Go to `localhost:7000/influxdb` to have FastAPI send data to InfluxDB
+
 ---
 
 #### What this template will do for you:
